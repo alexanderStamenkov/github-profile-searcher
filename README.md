@@ -12,3 +12,7 @@ Search any GitHub user and explore their repositories.
 
 - Vanilla JavaScript
 - GitHub REST API
+
+## Screenshots
+
+ <img src="screenshots/view.png" width="480" alt="View"/>
